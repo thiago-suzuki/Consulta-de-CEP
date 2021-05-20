@@ -1,0 +1,14 @@
+#btnConsulta,
+#btnLimpar {
+    background-color: #2c0bec;
+}
+
+header h1 {
+    color: #8902d8;
+}
+
+#resultado {
+    color: #05dfe7;
+    text-shadow: 1px 1px black;
+    visibility: hidden;
+}
