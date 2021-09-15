@@ -8,7 +8,6 @@ header h1 {
 }
 
 #resultado {
-    color: #05dfe7;
-    text-shadow: 1px 1px black;
+    color: #056B02;
     visibility: hidden;
 }
